@@ -5,6 +5,9 @@ A python program to identify multi-mode delta scuti
 
 
 # Please Cite
+
+bibtex:
+```
 @ARTICLE{2024ApJS..273....7J,
        author = {{Jia}, Qi and {Chen}, Xiaodian and {Wang}, Shu and {Deng}, Licai and {Luo}, Yangping and {Jiang}, Qingquan},
         title = "{Multimode {\ensuremath{\delta}} Sct stars from the Zwicky Transient Facility Survey}",
@@ -23,4 +26,5 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2024ApJS..273....7J},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+```
 
